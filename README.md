@@ -9,3 +9,11 @@ Prepared by the authors of this paper [TYolov5: A Temporal Yolov5 Detector Based
 
 ### Resources
 1. [After Uvalde: Could A.I. prevent another school shooting?](https://fortune.com/2022/05/31/ai-prevent-uvalde-mass-school-shooting/)
+2. [Seminole County Public Schools testing AI gun detection system on several campuses](https://www.wesh.com/article/seminole-ai-gun-detection/40120102#)
+
+### Companies offer Gun Detection System.
+1. [ZeroEyes](https://zeroeyes.com/)
+2. [Omnilert](https://www.omnilert.com/)
+3. [Defendry](https://defendry.com/)
+4. [Athena Securities](https://www.athena-security.com/)
+
