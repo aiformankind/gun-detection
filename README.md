@@ -6,6 +6,7 @@
 Prepared by the authors of this paper [TYolov5: A Temporal Yolov5 Detector Based on Quasi-Recurrent Neural Networks for Real-Time Handgun Detection in Video](https://www.researchgate.net/profile/Cuauhtemoc-Suarez-Ramirez-3/publication/356339851_TYolov5_A_Temporal_Yolov5_Detector_Based_on_Quasi-Recurrent_Neural_Networks_for_Real-Time_Handgun_Detection_in_Video).
 3. [Real-time gun detection in CCTV : An open problem](https://github.com/Deepknowledge-US/US-Real-time-gun-detection-in-CCTV-An-open-problem-dataset).
 4. [Detection-of-lumbar-weapon-pistol-by-deep-learning--With-YOLO-v5](https://github.com/amin-tohidi/Detection-of-pistol-by-deep-learning-With-YOLO_v5).
+5. [https://www.kaggle.com/datasets/atulyakumar98/fire-and-gun-dataset/](https://www.kaggle.com/datasets/atulyakumar98/fire-and-gun-dataset/)
 
 ### Resources
 1. [After Uvalde: Could A.I. prevent another school shooting?](https://fortune.com/2022/05/31/ai-prevent-uvalde-mass-school-shooting/)
