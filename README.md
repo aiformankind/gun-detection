@@ -1,5 +1,8 @@
 # gun-detection
 
+### Goal
+Kids must be safe at school. AI For Mankind wants to build and deploy gun detection system to local schools to protect our children.
+
 ### Datasets
 1. [YouTube-GDD: A challenging gun detection dataset with rich contextual information](https://github.com/UCAS-GYX/YouTube-GDD).
 2. [Hands Guns and Phones (HGP) Dataset](https://drive.google.com/file/d/138Zp7MuchcS4He6LBFSTow5q97BwnpWv).
