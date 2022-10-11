@@ -20,7 +20,7 @@ Mario Alberto Duran-Vega, Miguel Gonzalez-Mendoza, Leonardo Chang, Cuauhtemoc Su
 
 2. Rifle, gun and fire dataset prepared by Atulya Kumar
 
-Here are the experimental model's metrics. (Yolov5 large, 300 epochs, batch size 8, image size 640)
+Here are the experimental model's metrics against validation set. (Yolov5 large, 300 epochs, batch size 8, image size 640)
 
 YOLOv5l_rifle summary: 267 layers, 46119048 parameters, 0 gradients, 107.7 GFLOPs
 
