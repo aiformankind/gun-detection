@@ -21,14 +21,17 @@ Mario Alberto Duran-Vega, Miguel Gonzalez-Mendoza, Leonardo Chang, Cuauhtemoc Su
 2. Rifle, gun and fire dataset prepared by Atulya Kumar
 
 Here are the experimental model's metrics. (Yolov5 large, 300 epochs, batch size 8, image size 640)
+
 YOLOv5l_rifle summary: 267 layers, 46119048 parameters, 0 gradients, 107.7 GFLOPs
-                | Class |    Images | Instances |   P |        R |     mAP50   | mAP50-95 |
-                |--------|----------|-----------|-----|----------|-------------|----------|
-                |   all  |     500  |      645  |    0.834  |    0.741 |      0.77  |  0.496|
-                |  gun   |     500  |      195  |    0.898  |    0.774 |     0.837  |  0.658|
-                | fire   |     500  |      151  |    0.798  |    0.722 |    0.744   |  0.349|
-                | rifle  |     500  |      299  |    0.808  |    0.726 |      0.73  |   0.481|
-                 
+
+
+| Class | Images | Instances |   P   |   R   | mAP50 | mAP50-95 |
+|:-----:|:------:|:---------:|:-----:|:-----:|:-----:|:--------:|
+| all   | 500    | 645       | 0.834 | 0.741 | 0.77  | 0.496    |
+| gun   | 500    | 195       | 0.898 | 0.774 | 0.837 | 0.658    |
+| fire  | 500    | 151       | 0.798 | 0.722 | 0.744 | 0.349    |
+| rifle | 500    | 299       | 0.808 | 0.726 | 0.73  | 0.481    |
+                
 
 Our volunteers are working on a better model. Checkout our Colab notebook in the repo.
 
